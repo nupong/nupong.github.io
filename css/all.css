@@ -327,14 +327,14 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.Attention{width: 100%;}
-.progress li span.Problem{width: 100%;}
-.progress li span.Collaboration{width: 100%;}
-.progress li span.Data-driven{width: 80%;}
-.progress li span.python{width: 60%;}
-.progress li span.R{width: 50%;}
-.progress li span.SQL{width: 80%;}
-.progress li span.PowerBI{width: 60%;}
+.progress li span.photoshop{width: 100%;}
+.progress li span.illustrator{width: 70%;}
+.progress li span.indesign{width: 40%;}
+.progress li span.flash{width: 80%;}
+.progress li span.html{width: 75%;}
+.progress li span.wordpress{width: 85%;}
+.progress li span.jquery{width: 70%;}
+.progress li span.seo{width: 40%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
@@ -513,7 +513,7 @@ transition: all 0.5s ease-in-out;
 .box_contact span{
 	color: #fff;
 	font-family: 'novecento_sans_widebook';
-	font-size: 28px;
+	font-size: 30px;
 	line-height: 32px;
 	text-transform: uppercase;
 	display: block;
@@ -571,8 +571,6 @@ transition: all 0.5s ease-in-out;
 .footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
 .footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
 .footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
-.footer-content .social li.github a{background: url(../images/icons8-github-60.png) no-repeat 50% 50%;}
-.footer-content .social li.linkedin a{background: url(../images/icon_linkedin.png) no-repeat 50% 50%;}
 .footer-content p{
 	font:18px/20px Arial, Helvetica, sans-serif;
 	display: block;
